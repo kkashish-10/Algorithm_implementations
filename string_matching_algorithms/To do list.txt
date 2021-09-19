@@ -1,0 +1,11 @@
+To do list
+
+
+--> document
+        add lists solutions 
+        is palindrome solution
+
+--> solve 
+
+        intersection point of two lists and other remaining linked list questions
+        
